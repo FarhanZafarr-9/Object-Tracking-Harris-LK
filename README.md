@@ -59,7 +59,7 @@ First frame → User BBox → Harris corner detection
 pip install opencv-python numpy matplotlib ipywidgets
 ```
 
-Run in Jupyter or Google Colab. Open `23L_2589__23L_2543-Project.ipynb` and run cells top to bottom.
+Run in Jupyter or Google Colab. Open `CV-Project.ipynb` and run cells top to bottom.
 
 1. Set `VIDEO_PATH` in the config cell to your input MP4
 2. Use the interactive widget (Cell 7) to select start frame and draw a bounding box
